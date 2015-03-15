@@ -1,0 +1,40 @@
+.wrapper {
+	background-image: url('../images/Vertical_paddleboarder.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 700px;
+	height: 1100px;
+	display: block;
+	margin: auto;
+}
+
+.shopping-list {
+	outline: red 1px solid;
+	width: 400px;
+	height: auto;
+	padding-top: 3em;
+	padding-bottom: 1em;
+	margin: 0 auto;
+}
+
+.text h1 {
+	text-align: center;
+}
+
+#add-item {
+	margin: 0 auto;
+	display: inline-block;
+	text-align: center;
+}
+
+#add-button {
+	display: inline-block;
+}
+
+#list {
+	list-style: none;
+}
+
+.list-item {
+	margin-bottom: 10px;
+}
