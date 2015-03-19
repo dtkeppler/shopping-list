@@ -9,7 +9,6 @@
 }
 
 .shopping-list {
-	outline: red 1px solid;
 	width: 400px;
 	height: auto;
 	padding-top: 3em;
@@ -17,18 +16,20 @@
 	margin: 0 auto;
 }
 
-.text h1 {
+h1 {
 	text-align: center;
 }
 
 #add-item {
 	margin: 0 auto;
-	display: inline-block;
+	display: block;
 	text-align: center;
 }
 
 #add-button {
-	display: inline-block;
+	margin: 0 auto;
+	display: block;
+	margin-top: 5px;
 }
 
 #list {
