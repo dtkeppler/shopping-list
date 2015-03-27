@@ -39,3 +39,11 @@ h1 {
 .list-item {
 	margin-bottom: 10px;
 }
+
+.remove-button {
+	float: right;
+}
+
+.strikethrough{
+	text-decoration: line-through;
+}
